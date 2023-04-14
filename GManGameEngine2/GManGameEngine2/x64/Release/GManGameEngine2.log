@@ -1,0 +1,6 @@
+﻿  gameengine.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GManGameEngine2.vcxproj -> D:\more repos\GManGameEngine2\x64\Release\GManGameEngine2.exe
